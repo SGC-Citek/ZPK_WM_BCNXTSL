@@ -1,0 +1,4 @@
+@EndUserText.label: 'Báo cáo xuất nhập tồn số lượng'
+define service ZUI_WM_BCNXTSL {
+  expose ZI_WM_BCNXTSL_CUSTOM;
+}
